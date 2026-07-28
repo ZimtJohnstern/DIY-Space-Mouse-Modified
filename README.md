@@ -1,6 +1,6 @@
 # DIY Magnet-Based Space Mouse (Modified Version)
 
-This repository is a modified fork and improvement of the original ["DIY Space Mouse for Fusion 360 Using Magnets"](https://instructables.com) by salimbenbouz. 
+This repository is a modified fork and improvement of the original ["DIY Space Mouse for Fusion 360 Using Magnets"](https://www.instructables.com/DIY-Space-Mouse-for-Fusion-360-Using-Magnets/) by salimbenbouz, based on the [original source code](https://github.com/sb-ocr/diy-spacemouse). 
 
 ## 🛠️ Enhancements & Modifications
 
