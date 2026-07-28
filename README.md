@@ -1,6 +1,6 @@
 # DIY Magnet-Based Space Mouse (Modified Version)
 
-This repository is a modified fork and improvement of the original ["DIY Space Mouse for Fusion 360 Using Magnets"](https://instructables.com) by salimbenbouz, based on the [original source code](https://github.com). 
+> 💡 **Note:** This project is a modified version and improvement of the original [sb-ocr / diy-spacemouse](https://github.com) repository created by salimbenbouz (Instructables project: ["DIY Space Mouse for Fusion 360 Using Magnets"](https://instructables.com)).
 
 <p align="center">
   <img src="Images/spacemouse.png" alt="Finished Space Mouse" width="60%" />
@@ -43,4 +43,4 @@ Before flashing the code from the `/firmware` folder using the Arduino IDE, make
 * **Adafruit SleepyDog Library** (by Adafruit)
 
 ## 📄 License & Attribution
-This project is based on the work of salimbenbouz. In accordance with the original project's terms, this work is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** License. You are free to share and adapt it for non-commercial purposes, provided you give appropriate credit.
+This project contains modifications and extensions based on the work of salimbenbouz ([sb-ocr/diy-spacemouse](https://github.com)). In accordance with the original project's terms, this work is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** License. You are free to share and adapt it for non-commercial purposes, provided you give appropriate credit and distribute your contributions under the same license.
