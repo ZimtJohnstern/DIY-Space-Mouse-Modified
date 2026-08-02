@@ -22,6 +22,29 @@
 * `/Images` - Photos of the modification and finished build
 * `/firmware` - Updated Arduino sketch for Adafruit QT Py
 
+## 📋 Bill of Materials (BOM)
+
+To build this modified magnet-based Space Mouse, you will need the following electronic and mechanical components. The links lead directly to the items I used for my build on AliExpress:
+
+| Component | Qty | Description / Specifications | Link |
+| :--- | :---: | :--- | :--- |
+| **Adafruit QT Py** | 1 | Microcontroller board used as the main HID input device | [View on AliExpress](https://s.click.aliexpress.com/e/_c3DRNdEn)* |
+| **TLV493D / TLx493D** | 1 | 3-Axis Magnetometer Sensor (I2C / STEMMA QT) | [View on AliExpress](https://s.click.aliexpress.com/e/_c3DRNdEn)* |
+| **STEMMA QT Cable** | 1 | JST SH 4-pin cable (approx. 100mm) to connect sensor and MCU | [View on AliExpress](https://s.click.aliexpress.com/e/_c3DRNdEn)* |
+| **Tactile Buttons** | 2 | 6mm micro tactile switch buttons for side shortcuts | [View on AliExpress](https://s.click.aliexpress.com/e/_c3ZY0dkF)* |
+| **LilyPad LEDs** | 1 | Small LED boards used for internal case illumination / status | [View on AliExpress](https://aliexpress.com)* |
+| **Neodymium Magnets** | 4 | Strong round magnets (usually 10x3mm or according to design) | [View on AliExpress](https://s.click.aliexpress.com/e/_c4C58nEn)* |
+| **Spring Kit** | 1 | Compression and extension springs for the joystick tension | [View on AliExpress](https://s.click.aliexpress.com/e/_c4BEdeZD)* |
+| **Lead Weight Disc** | 1 | Solid 60mm diameter (3-3.5mm thick) lead disc for a heavy base | [View on AliExpress](https://s.click.aliexpress.com/e/_c37fQ8nH)* |
+| **PETG Filament** | — | Filament for 3D printing the enclosure components (e.g., Kingroon)| [View on AliExpress](https://s.click.aliexpress.com/e/_c3EpvDFp)* |
+
+---
+
+### 📢 Transparency Note & Support
+Product links marked with an asterisk (`*`) are **affiliate links**. If you purchase through these links on AliExpress, I receive a small commission from the seller. There are **absolutely no extra costs** for you. By using these links, you directly support the maintenance and further development of this open-source project. Thank you!
+
+---
+
 ## 🔧 Setup & Installation
 
 ### 1. Hardware & Lead Disc Specifications
